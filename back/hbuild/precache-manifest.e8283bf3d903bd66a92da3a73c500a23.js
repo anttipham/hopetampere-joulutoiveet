@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d99b96c8060752413e14ad05bdfb371",
+    "revision": "a8d4d72d93b721587165c0ede1ccde95",
     "url": "/henkilosto/index.html"
   },
   {
-    "revision": "fd31760dd597f050c2f3",
+    "revision": "98255ec2bb6308f092a5",
     "url": "/henkilosto/static/css/main.8f5fcf8e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/henkilosto/static/js/2.6f030745.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd31760dd597f050c2f3",
-    "url": "/henkilosto/static/js/main.975d7d5e.chunk.js"
+    "revision": "98255ec2bb6308f092a5",
+    "url": "/henkilosto/static/js/main.f31ca0e8.chunk.js"
   },
   {
     "revision": "5cb4e7fe63a3d1186761",

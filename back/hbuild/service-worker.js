@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/henkilosto/precache-manifest.33cbcf0bc3b9599931d22d3c1a33fe4a.js"
+  "/henkilosto/precache-manifest.e8283bf3d903bd66a92da3a73c500a23.js"
 );
 
 self.addEventListener('message', (event) => {
