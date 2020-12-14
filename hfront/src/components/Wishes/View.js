@@ -32,7 +32,7 @@ const View = ({ wish, setDisplayMode, index }) => {
       <h3>Elämäntilanne:</h3>
       <div style={multiline}>{wish.lifeSituation}</div>
 
-      <h3>Lapset:</h3>
+      <h3>Lapset ({wish.children.length})</h3>
       <div style={flexBoxExpandRight}>
         {wish.children.map(child =>
           <div style={flexChildDiv} key={child._id} className="wish-child">

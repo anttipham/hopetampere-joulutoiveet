@@ -1,6 +1,8 @@
 Antti Pham (antti.pham@gmail.com)
 
-Backend joulutoivesovellukselle. 
+Backend joulutoivesovellukselle.
+
+Backend deployataan Herokulla. Kirjaudu Hopen tunnuksilla Herokuun ja noudata Herokun lisäyksen ohjeita siellä.
 
 
 Tällä hetkellä henkilöstö postaa sähköpostilistan wishes-routeriin (eli rekisteröi sähköpostin).
