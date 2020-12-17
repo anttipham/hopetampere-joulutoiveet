@@ -14,4 +14,4 @@ hfront-kansio sisältää henkilöstölle tarkoitetun frontendin koodin. Henkil�
 Systeemi toimii näin:
 1. hfrontissa POSTataan asiakkaiden sähköpostit.
 2. frontissa PATCHataan sähköposti täytetyllä lomaketiedolla.
-3. hfrontissa GETataan lomaketiedot.
+3. hfrontissa GETataan lomaketiedot ja muokataan PUTilla.
