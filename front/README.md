@@ -1,6 +1,3 @@
-Antti Pham (antti.pham@gmail.com)
+# Front
 
 Ruoskalla, kivulla ja nopeudella tehty sovellus Joulutoiveiden lähettämiseen.
-Aivan kamalan näköinen koodi. Olen pahoillani jo sinun puolestasi.
-
-
