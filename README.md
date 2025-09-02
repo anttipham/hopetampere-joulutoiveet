@@ -1,17 +1,14 @@
-Antti Pham (antti.pham@gmail.com)
+# Hope Tampere Joulutoiveet
 
-Opetellut Full Stackiä 4-5 kuukautta.
-Koko projektissa luultavasti huonot dokumentoinnit (sori).
+Tällä Full stack -projektilla pyritään rekisteröimään tietokantaan Hopen asiakkaat ja vastaanottamaan heiltä joulutoiveita. Projektin tarve tulee siitä, että Hopella ei ole ollut nopeaa ja varmaa tapaa vastaanottaa joulutoivetta ainoastaan asiakkailta ja rajoittaa toiveen yhteen kertaan per asiakas.
 
+Projektin back-kansio sisältää backendin koodin.
 
-back-kansio sisältää tietenkin backendin koodin.
+Projektin front-kansio sisältää frontendin koodin. Asiakkaat kirjautuvat, täyttävät lomakkeen ja lähettävät tietoja palvelimelle.
 
-front-kansio sisältää asiakkaille tarkoitetun frontendin koodin. Asiakkaat vain täyttävät lomakkeen ja lähettävät tietoja palvelimelle.
-
-hfront-kansio sisältää henkilöstölle tarkoitetun frontendin koodin. Henkilöstö pääsee muokkaamaan ja tarkastelemaan lomaketietoja.
-
+Projektin hfront-kansio sisältää henkilöstölle tarkoitetun frontend-koodin. Henkilöstö pääsee muokkaamaan ja tarkastelemaan lomaketietoja.
 
 Systeemi toimii näin:
-1. hfrontissa POSTataan asiakkaiden sähköpostit.
-2. frontissa PATCHataan sähköposti täytetyllä lomaketiedolla.
-3. hfrontissa GETataan lomaketiedot ja muokataan PUTilla.
+1. hfrontissa rekisteröidään asiakkaiden sähköpostit.
+2. frontissa asiakkaat täyttävät lomakkeen joulutoiveista.
+3. hfrontissa voidaan lukea joulutoiveet ja muokkaamaan toiveita tarvittaessa.
