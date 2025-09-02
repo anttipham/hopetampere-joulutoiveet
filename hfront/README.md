@@ -1,4 +1,4 @@
-Antti Pham (antti.pham@gmail.com)
+# Henkilöstö Front
 
 Rakkaudella ja vaivalla tehty sovellus joulutoiveiden katsomiseen.
 
